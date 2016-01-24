@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Analfabet/Analfabet.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Analfabet/GameHandler.cs">
+    <Files>
+      <File FileName="Analfabet/Game1.cs" Line="1" Column="1" />
+      <File FileName="Analfabet/UIt.cs" Line="1" Column="1" />
+      <File FileName="Analfabet/GameHandler.cs" Line="31" Column="39" />
+      <File FileName="Analfabet/Controller.cs" Line="1" Column="1" />
+      <File FileName="Analfabet/Rules.cs" Line="1" Column="1" />
+      <File FileName="Analfabet/HumanPlayer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
